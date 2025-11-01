@@ -58,11 +58,11 @@ Proyek ini dikembangkan menggunakan alur kerja Git yang sistematis untuk mencata
     * Setelah styling selesai dan diuji di branch `styling`, kembali ke branch `main` (`git checkout main`).
     * Menggabungkan (merge) semua perubahan dari `styling` ke `main` (`styling`) sehingga `main` memiliki kode fungsional dan styling terbaru.
 
+6.  **Push ke GitHub**:
+    * Mendorong (push) versi final dari branch `main` ke repositori remote di GitHub (`git push origin main`).
+
+
 
 ## Demo Proyek
 
 ![Demo Project](./assets/demo.gif)
-
-
-6.  **Push ke GitHub**:
-    * Mendorong (push) versi final dari branch `main` ke repositori remote di GitHub (`git push origin main`).
