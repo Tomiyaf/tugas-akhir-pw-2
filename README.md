@@ -66,3 +66,8 @@ Proyek ini dikembangkan menggunakan alur kerja Git yang sistematis untuk mencata
 ## Demo Proyek
 
 ![Demo Project](./assets/demo.gif)
+
+
+## Git Log
+
+![Git Log](./git-log.png)
